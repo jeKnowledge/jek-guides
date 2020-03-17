@@ -1,0 +1,27 @@
+{
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": true,
+
+    "[python]": {
+
+    },
+    "[typescript]": {
+        "editor.tabSize": 2,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+    "[javascript]": {
+        "editor.tabSize": 2,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+    "[html]": {
+        "editor.tabSize": 2,
+    },
+    "editor.formatOnSave": true,
+    "todo-tree.general.tags": [
+        "TODO",
+        "FIXME",
+        "DEBUG",
+        "BUG",
+        "INFO"
+    ],
+}
