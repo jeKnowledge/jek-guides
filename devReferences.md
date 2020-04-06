@@ -40,6 +40,7 @@
 ## Repositories
 
 - [Scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device by connecting it to your pc.
+- [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - Curated list of Web Security materials and resources
 
 ## Documentation
 
