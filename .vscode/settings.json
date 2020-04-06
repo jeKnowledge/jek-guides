@@ -24,4 +24,7 @@
         "BUG",
         "INFO"
     ],
+    "cSpell.ignoreWords": [
+        "xattr"
+    ],
 }

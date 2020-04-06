@@ -4,7 +4,8 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et lectus vitae velit commodo condimentum. Morbi at nisl est. Maecenas pellentesque nisl faucibus nisi commodo dictum. Donec sollicitudin mi quis nibh tempor condimentum. Morbi et enim a orci eleifend fermentum et quis tortor. Duis tristique et elit in convallis. Cras ac arcu et tellus cursus lobortis.<!--cSpell:enable-->
 
 <!--UI Main Page Screenshot-->
-![screenshot](example.jpg)
+
+![screenshot](assets/example.jpg)
 
 ## Table of Contents
 
