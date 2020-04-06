@@ -29,7 +29,7 @@ To install the Adobe Collection in Windows 10:
 2. Download Adobe CC Cleaner Tool [here](https://www.artistapirata.com/adobe-cc-cleaner-tool-eliminar-programas-y-errores-de-adobe-cc/)
 3. Sign out of Creative Cloud if you have an open session
 4. Execute Adobe CC Cleaner Tool (from step 2)
-   1. When the "Clean All" option appears: ![macos1](assets/macOS_screen1.png)
+   1. When the "Clean All" option appears: ![macos1](assets/macOS_screen1.PNG)
 5. Go to applications and delete all thats related to Adobe
 6. Go to Library->Application Support and delete Adobe/ and CEF/ folders. If there is still anything from Adobe it should also be deleted
 7. Go to Library->Preferences and delete everything from Adobe (just from Adobe)
